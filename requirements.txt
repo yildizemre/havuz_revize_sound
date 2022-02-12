@@ -1,0 +1,10 @@
+pika
+python-dotenv
+redis
+pybase64
+uuid
+numpy
+imutils
+graypy
+pyarmor
+easydict
